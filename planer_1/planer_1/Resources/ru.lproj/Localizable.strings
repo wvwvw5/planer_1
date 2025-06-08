@@ -1,0 +1,197 @@
+// Общие
+"app_name" = "Планировщик";
+"save" = "Сохранить";
+"cancel" = "Отмена";
+"delete" = "Удалить";
+"edit" = "Редактировать";
+"done" = "Готово";
+"error" = "Ошибка";
+"success" = "Успешно";
+"task_added_success" = "Задача успешно добавлена в ваш список";
+
+// Меню
+"menu" = "Меню";
+"profile" = "Профиль";
+"tasks" = "Задачи";
+"analytics" = "Аналитика";
+"settings" = "Настройки";
+"followers" = "Подписчики";
+"following" = "Подписки";
+"language" = "Язык";
+"theme" = "Тема";
+"logout" = "Выйти";
+
+// Задачи
+"add_task" = "Добавить задачу";
+"edit_task" = "Редактировать задачу";
+"task_title" = "Название";
+"task_description" = "Описание";
+"task_category" = "Категория";
+"task_priority" = "Приоритет";
+"task_deadline" = "Срок";
+"task_location" = "Место";
+"task_status" = "Статус";
+"task_created" = "Создано";
+"task_updated" = "Обновлено";
+"task_completed" = "Выполнено";
+"task_archived" = "В архиве";
+
+// Категории
+"category_all" = "Все";
+"category_study" = "Учёба";
+"category_work" = "Работа";
+"category_personal" = "Личное";
+"category_health" = "Здоровье";
+"category_shopping" = "Покупки";
+"categories" = "Категории";
+"standard_categories" = "Стандартные категории";
+"custom_categories" = "Пользовательские категории";
+
+// Приоритеты
+"priority_low" = "Низкий";
+"priority_medium" = "Средний";
+"priority_high" = "Высокий";
+
+// Статусы
+"status_active" = "Активно";
+"status_completed" = "Выполнено";
+"status_archived" = "В архиве";
+
+// Профиль
+"profile_edit" = "Редактировать профиль";
+"profile_name" = "Имя";
+"profile_email" = "Email";
+"profile_bio" = "О себе";
+"profile_photo" = "Фото профиля";
+"profile_stats" = "Статистика";
+"profile_tasks_completed" = "Выполнено задач";
+"profile_tasks_active" = "Активных задач";
+
+// Аналитика
+"analytics_title" = "Аналитика";
+"analytics_completed" = "Выполнено";
+"analytics_pending" = "В процессе";
+"analytics_by_category" = "По категориям";
+"analytics_by_priority" = "По приоритетам";
+"analytics_time_spent" = "Затраченное время";
+
+// Настройки
+"settings_title" = "Настройки";
+"settings_notifications" = "Уведомления";
+"settings_theme" = "Тема";
+"settings_language" = "Язык";
+"settings_about" = "О приложении";
+"settings_privacy" = "Конфиденциальность";
+"settings_terms" = "Условия использования";
+
+// Аутентификация
+"auth_login" = "Войти";
+"auth_register" = "Регистрация";
+"auth_email" = "Email";
+"auth_password" = "Пароль";
+"auth_forgot_password" = "Забыли пароль?";
+"auth_no_account" = "Нет аккаунта?";
+"auth_have_account" = "Уже есть аккаунт?";
+"auth_invalid_email" = "Неверный формат email";
+"auth_user_not_found" = "Пользователь не найден";
+"auth_wrong_password" = "Неверный пароль";
+"auth_email_in_use" = "Email уже используется";
+"auth_weak_password" = "Слабый пароль (минимум 6 символов)";
+"auth_logout_error" = "Ошибка выхода";
+"auth_not_authorized" = "Пользователь не авторизован";
+"auth_login_field" = "Логин";
+
+// Новые ключи для профиля и бокового меню
+"find_user" = "Найти пользователя";
+"followers_count" = "Подписчики";
+"following_count" = "Подписки";
+"subscribe" = "Подписаться";
+"unsubscribe" = "Отписаться";
+"public_tasks" = "Публичные задачи";
+"choose_action" = "Выберите действие";
+"view" = "Просмотреть";
+"add_to_my_tasks" = "Добавить в мои задачи";
+"find_user_by_login" = "Поиск пользователей по логину";
+
+// Новые ключи для аналитики, деталей задачи и настроек
+"change_profile_photo" = "Изменить фото профиля";
+"change_password" = "Изменить пароль";
+"app" = "Приложение";
+"photo_uploading" = "Загрузка фото...";
+"logout_confirm" = "Вы уверены, что хотите выйти?";
+"period" = "Период";
+"current_tasks" = "Текущие";
+"archive_tasks" = "Архив";
+"no_tasks_for_analytics" = "Нет задач для анализа";
+"description" = "Описание";
+"priority" = "Приоритет";
+"category" = "Категория";
+"due_date" = "Срок выполнения";
+"reminder" = "Напоминание";
+"status" = "Статус";
+"completed" = "Завершено";
+"in_progress" = "В процессе";
+"archived" = "В архиве";
+"visibility" = "Видимость";
+"private" = "Приватная";
+"public" = "Публичная";
+"task_details" = "Детали задачи";
+"close" = "Закрыть";
+"basic_info" = "Основная информация";
+"private_task" = "Приватная задача";
+"add_location" = "Добавить местоположение";
+"edit_location" = "Изменить местоположение";
+"notification" = "Уведомление";
+"period_day" = "День";
+"period_month" = "Месяц";
+"period_year" = "Год";
+"add_category" = "Добавить категорию";
+"new_category" = "Новая категория";
+"category_name" = "Название категории";
+"add" = "Добавить";
+"enter_new_category" = "Введите название новой категории";
+
+// Новые ключи для SettingsView и ChangePasswordView
+"theme_system" = "Системная";
+"theme_light" = "Светлая";
+"theme_dark" = "Темная";
+"password_changed" = "Пароль успешно изменён.";
+"profile_photo_updated" = "Фото профиля успешно обновлено.";
+"ok" = "ОК";
+"current_password" = "Текущий пароль";
+"new_password" = "Новый пароль";
+"confirm_new_password" = "Подтвердите новый пароль";
+"passwords_do_not_match" = "Пароли не совпадают";
+"password_too_short" = "Пароль должен содержать минимум 6 символов";
+"password_change_error" = "Произошла ошибка при смене пароля";
+
+// Новые ключи для LocationPickerView
+"search" = "Поиск";
+"enter_address" = "Введите адрес";
+"selected_place" = "Выбранное место";
+"location_picker" = "Выбор местоположения";
+
+// Reminders
+"reminder_none" = "Не напоминать";
+"reminder_ten_minutes" = "За 10 минут";
+"reminder_one_hour" = "За час";
+"reminder_one_day" = "За день";
+
+// Loading and Status
+"loading" = "Загрузка...";
+"loading_following" = "Загрузка подписок...";
+"loading_followers" = "Загрузка подписчиков...";
+"no_following" = "У вас пока нет подписок";
+"no_followers" = "У вас пока нет подписчиков";
+"search_error" = "Ошибка поиска";
+"user_not_found" = "Пользователь не найден";
+"error_fetching_followers" = "Ошибка получения подписчиков";
+"loading_tasks" = "Загрузка задач...";
+"no_public_tasks" = "У пользователя нет публичных задач";
+"no_data" = "Нет данных";
+
+// Новые ключи для нижнего меню
+"tasks_tab" = "Задачи";
+"analytics_tab" = "Аналитика";
+"profile_tab" = "Профиль";
+"settings_tab" = "Настройки"; 

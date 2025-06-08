@@ -1,0 +1,188 @@
+// General
+"app_name" = "Planner";
+"save" = "Save";
+"cancel" = "Cancel";
+"delete" = "Delete";
+"edit" = "Edit";
+"done" = "Done";
+"error" = "Error";
+"success" = "Success";
+
+// Menu
+"menu" = "Menu";
+"profile" = "Profile";
+"tasks" = "Tasks";
+"analytics" = "Analytics";
+"settings" = "Settings";
+"followers" = "Followers";
+"following" = "Following";
+"language" = "Language";
+"theme" = "Theme";
+"logout" = "Logout";
+
+// Tasks
+"add_task" = "Add Task";
+"edit_task" = "Edit Task";
+"task_title" = "Title";
+"task_description" = "Description";
+"task_category" = "Category";
+"task_priority" = "Priority";
+"task_deadline" = "Deadline";
+"task_location" = "Location";
+"task_status" = "Status";
+"task_created" = "Created";
+"task_updated" = "Updated";
+"task_completed" = "Completed";
+"task_archived" = "Archived";
+"task_added_success" = "Task successfully added to your list";
+
+// Categories
+"category_all" = "All";
+"category_study" = "Study";
+"category_work" = "Work";
+"category_personal" = "Personal";
+"category_health" = "Health";
+"category_shopping" = "Shopping";
+"categories" = "Categories";
+"standard_categories" = "Standard Categories";
+"custom_categories" = "Custom Categories";
+
+// Priorities
+"priority_low" = "Low";
+"priority_medium" = "Medium";
+"priority_high" = "High";
+
+// Statuses
+"status_active" = "Active";
+"status_completed" = "Completed";
+"status_archived" = "Archived";
+
+// Profile
+"profile_edit" = "Edit Profile";
+"profile_name" = "Name";
+"profile_email" = "Email";
+"profile_bio" = "Bio";
+"profile_photo" = "Profile Photo";
+"profile_stats" = "Statistics";
+"profile_tasks_completed" = "Tasks Completed";
+"profile_tasks_active" = "Active Tasks";
+
+// Analytics
+"analytics_title" = "Analytics";
+"analytics_completed" = "Completed";
+"analytics_pending" = "Pending";
+"analytics_by_category" = "By Category";
+"analytics_by_priority" = "By Priority";
+"analytics_time_spent" = "Time Spent";
+
+// Settings
+"settings_title" = "Settings";
+"settings_notifications" = "Notifications";
+"settings_theme" = "Theme";
+"settings_language" = "Language";
+"settings_about" = "About";
+"settings_privacy" = "Privacy";
+"settings_terms" = "Terms of Use";
+
+// Authentication
+"auth_login" = "Login";
+"auth_register" = "Register";
+"auth_email" = "Email";
+"auth_password" = "Password";
+"auth_forgot_password" = "Forgot Password?";
+"auth_no_account" = "Don't have an account?";
+"auth_have_account" = "Already have an account?";
+"auth_invalid_email" = "Invalid email format";
+"auth_user_not_found" = "User not found";
+"auth_wrong_password" = "Wrong password";
+"auth_email_in_use" = "Email is already in use";
+"auth_weak_password" = "Weak password (at least 6 characters)";
+"auth_logout_error" = "Logout error";
+"auth_not_authorized" = "User not authorized";
+
+// New keys
+"find_user" = "Find user";
+"followers_count" = "Followers";
+"following_count" = "Following";
+"subscribe" = "Subscribe";
+"unsubscribe" = "Unsubscribe";
+"public_tasks" = "Public tasks";
+"choose_action" = "Choose action";
+"view" = "View";
+"add_to_my_tasks" = "Add to my tasks";
+"change_profile_photo" = "Change profile photo";
+"change_password" = "Change password";
+"app" = "App";
+"photo_uploading" = "Uploading photo...";
+"logout_confirm" = "Are you sure you want to log out?";
+"period" = "Period";
+"current_tasks" = "Current";
+"archive_tasks" = "Archive";
+"no_tasks_for_analytics" = "No tasks for analytics";
+"description" = "Description";
+"priority" = "Priority";
+"category" = "Category";
+"due_date" = "Due date";
+"reminder" = "Reminder";
+"status" = "Status";
+"completed" = "Completed";
+"in_progress" = "In progress";
+"archived" = "Archived";
+"visibility" = "Visibility";
+"private" = "Private";
+"public" = "Public";
+"task_details" = "Task details";
+"close" = "Close";
+"basic_info" = "Basic info";
+"private_task" = "Private task";
+"add_location" = "Add location";
+"edit_location" = "Edit location";
+"notification" = "Notification";
+"period_day" = "Day";
+"period_month" = "Month";
+"period_year" = "Year";
+"add_category" = "Add category";
+"new_category" = "New category";
+"category_name" = "Category name";
+"add" = "Add";
+"enter_new_category" = "Enter new category name";
+"theme_system" = "System";
+"theme_light" = "Light";
+"theme_dark" = "Dark";
+"password_changed" = "Password changed successfully.";
+"profile_photo_updated" = "Profile photo updated successfully.";
+"ok" = "OK";
+"current_password" = "Current password";
+"new_password" = "New password";
+"confirm_new_password" = "Confirm new password";
+"passwords_do_not_match" = "Passwords do not match";
+"password_too_short" = "Password must be at least 6 characters";
+"password_change_error" = "An error occurred while changing the password";
+"search" = "Search";
+"enter_address" = "Enter address";
+"selected_place" = "Selected place";
+"location_picker" = "Location picker";
+"auth_login_field" = "Login";
+"find_user_by_login" = "Find users by login";
+
+// Reminders
+"reminder_none" = "No reminder";
+"reminder_ten_minutes" = "10 minutes before";
+"reminder_one_hour" = "1 hour before";
+"reminder_one_day" = "1 day before";
+
+// Loading and Status
+"loading" = "Loading...";
+"loading_following" = "Loading following...";
+"loading_followers" = "Loading followers...";
+"no_following" = "You don't have any following yet";
+"no_followers" = "You don't have any followers yet";
+"search_error" = "Search error";
+"user_not_found" = "User not found";
+"error_fetching_followers" = "Error fetching followers";
+
+// New tabs
+"tasks_tab" = "Tasks";
+"analytics_tab" = "Analytics";
+"profile_tab" = "Profile";
+"settings_tab" = "Settings"; 
